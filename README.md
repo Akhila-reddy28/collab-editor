@@ -16,3 +16,4 @@ The project is designed to create a real-time collaborative text editor where mu
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/3a532024-e4a5-4a29-a316-4be4d60f9503)
